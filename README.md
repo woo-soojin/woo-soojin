@@ -3,4 +3,4 @@
 
 - 👋 Hi, I’m @woo-soojin
 
-<!--![soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-soojin&hide=contribs,prs&show_icons=true&theme=테마)-->
+![soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-soojin&hide=contribs,prs&show_icons=true&theme=테마)
